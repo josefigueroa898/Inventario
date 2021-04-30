@@ -1,0 +1,11 @@
+﻿El modelo se generó con advertencias o errores.InventarioModel.edmxVea la lista de errores para obtener más detalles. Se deben corregir estos problemas antes de ejecutar la aplicación.
+La carga de los metadatos desde la base de datos tardó 00:00:01.9728694.
+La generación del modelo tardó 00:00:03.4326222.
+Se agregó la cadena de conexión al archivo Web.Config.
+El proceso de escritura del archivo .edmx tardó 00:00:00.0025874.
+Archivo de modelo generado: InventarioModel.edmx.
+La carga de los metadatos desde la base de datos tardó 00:00:01.1618078.
+La generación del modelo tardó 00:00:00.8784805.
+Archivo de modelo generado: InventarioModel.edmx.
+La carga de los metadatos desde la base de datos tardó 00:00:01.0424501.
+La generación del modelo tardó 00:00:00.7595453.
